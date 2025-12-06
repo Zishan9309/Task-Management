@@ -1,6 +1,6 @@
-## Employee-Task-Management-System
+## Task Management System
 ### Description
-An Employee Task Management System is a designed to streamline and organize the assignment, tracking, and completion of tasks within an organization. It enables managers to assign tasks to employees, set priorities and deadlines, and monitor progress, while employees can access their task assignments, deadlines, and associated details. Employees can access their assigned tasks and update it's status, fostering productivity and efficient workflow management. Ultimately, an Employee Task Management System helps businesses optimize their workflow, boost efficiency, and achieve their goals with greater ease.
+This system helps organizations assign, track, and manage employee tasks efficiently. Managers can create tasks, set priorities and deadlines, and monitor progress, while employees can view their assigned tasks and update their status. It improves workflow management, boosts productivity, and supports smooth team coordination.
 ### Technology Used
 * Front End - HTML, CSS, JavaScript
 * Back End - PHP
